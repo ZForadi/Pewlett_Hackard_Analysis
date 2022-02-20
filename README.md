@@ -86,7 +86,14 @@ From the above four major observations can be made:
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-There are 7 roles that will need to be filled as the "silver tsunami" begins to make an impact. This includes: Senior Engineer, Senior Staff, Engineer, Staff, Technique Leader, Assistant Engineer and Manager 
+There are 7 roles that will need to be filled as the "silver tsunami" begins to make an impact. This includes: Senior Engineer, Senior Staff, Engineer, Staff, Technique Leader, Assistant Engineer and Manager. Specifically:
+* 25,916 Senior Engineer roles will need to be filled 
+* 24,926 Senir Staff roles will need to be filled 
+* 9,285 Engineer roles will need to be filled
+* 7,636 Staff roles will need to be filled
+* 3,603 Technique Leader roles will need to be filled
+* 1,090 Assistant Engineer roles will need to be filled
+* 2 Manager roles will need to be filled
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 To answer this question, 2 additional queries were run to determine if there were enough qualified mentors to mentor employees who would be filling in the roles of those retiring. 
