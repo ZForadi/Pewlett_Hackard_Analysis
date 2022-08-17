@@ -1,7 +1,7 @@
 # Pewlett Hackard Analysis with SQL 
 
 ## Overview of the Analysis 
-Pewlett Hackard is a large company boasting several thousand employees and it has been around for a long time. As baby boomers beginning to retire at a rapid rate, the number of upcoming retirements will leave thousands of job openings. 
+Pewlett Hackard is a large company boasting several thousand employees and it has been around for a long time. As baby boomers are beginning to retire at a rapid rate, the number of upcoming retirements will leave thousands of job openings. 
 
 Bobby is an up and coming HR analyst whose task is to perform employee research. Specficially, he needed to find answers to the following questions 
 * Who will be retiring in the next few years? 
